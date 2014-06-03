@@ -8,7 +8,7 @@ import option.guavaFashion.db.Item;
 /**
  * Created by fsznajderman on 02/06/2014.
  */
-public class main {
+public class Main {
 
 
     public static void main(String[] args) {
